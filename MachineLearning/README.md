@@ -10,7 +10,7 @@ The datasets used in this project are:
 Because the data was structured, supervised machine learning algorithms were used, including:
 > - Linear Regression
 > - Oridinary Least Squares (OLS) Regression
-> - k-means clustering
-> - 
+> - K-means clustering
+>-  Perceptron
 
 ## Results
