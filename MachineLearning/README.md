@@ -11,6 +11,7 @@ Because the data was structured, supervised machine learning algorithms were use
 > - Linear Regression
 > - Oridinary Least Squares (OLS) Regression
 > - K-means clustering
->-  Perceptron
 
 ## Results
+
+There exists a group of counties in which the relation between cost of living and affordable housing is the most reasonable.
